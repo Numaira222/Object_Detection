@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 2px;
+}
+.heading{
+width: 99.8%;
+height: 10%;
+box-shadow: 5px 5px 5px gray;
+margin: 0px;
+font-size: 40px;;
+text-align: center;
+
+
+}
+.tag{
+    margin: 5px;
+    margin-top: 40px;
+   
+    border-radius: 20px;
+    height: 60px;
+    width: 60%;
+    box-shadow: 10px 10px 10px gray;
+    font-size: 30px;
+}
