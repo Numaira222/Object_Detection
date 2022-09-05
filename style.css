@@ -9,7 +9,7 @@ width: 99.8%;
 height: 10%;
 box-shadow: 5px 5px 5px gray;
 margin: 0px;
-font-size: 40px;;
+font-size: 30px;;
 text-align: center;
 
 
@@ -19,8 +19,8 @@ text-align: center;
     margin-top: 40px;
    
     border-radius: 20px;
-    height: 60px;
+    height: 50px;
     width: 60%;
     box-shadow: 10px 10px 10px gray;
-    font-size: 30px;
+    font-size: 20px;
 }
