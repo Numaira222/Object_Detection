@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 2px;
+}
+.heading{
+width: 99.8%;
+height: 10%;
+box-shadow: 5px 5px 5px gray;
+margin: 0px;
+font-size: 30px;;
+text-align: center;
+
+
+}
+.tag{
+    margin: 5px;
+    margin-top: 40px;
+   
+    border-radius: 20px;
+    height: 50px;
+    width: 60%;
+    box-shadow: 10px 10px 10px gray;
+    font-size: 20px;
+}
+.button{
+     position: absolute; top:0; right:0;
+     width: 10%;
+     height: 10%;
+     font-size: 30px;
+}
+.status{
+    box-shadow:2px 2px 2px gray ;
+}
+.how_many{
+    box-shadow:2px 2px 2px gray ;
+}
+canvas{
+    box-shadow: 10px 10px 10px black;
+    border-radius: 15px;
+    border: 1px solid gray;
+    margin-top: 100px;
+}
+#status
+{
+font-size: 18px;
+}
